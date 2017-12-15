@@ -1,4 +1,5 @@
 # tagcheck [![Build Status](https://travis-ci.org/lxe/tagcheck.svg?branch=master)](https://travis-ci.org/lxe/tagcheck) [![Coverage Status](https://coveralls.io/repos/lxe/tagcheck/badge.png)](https://coveralls.io/r/lxe/tagcheck)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flxe%2Ftagcheck.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flxe%2Ftagcheck?ref=badge_shield)
 
 Verify whether your `git+ssh://` dependencies are up to date.
 
@@ -46,3 +47,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flxe%2Ftagcheck.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flxe%2Ftagcheck?ref=badge_large)
